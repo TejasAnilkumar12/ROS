@@ -1,0 +1,11 @@
+bool forward
+bool backward
+bool frontRight
+bool frontLeft
+bool backRight
+bool backLeft
+bool mode
+bool fRightMax
+bool fLeftMax
+bool bRightMax
+bool bReftMax
